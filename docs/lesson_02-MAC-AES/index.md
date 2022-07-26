@@ -26,6 +26,7 @@
 **Challenge Exercises**
 
 a. Explain your answers in English, such that anyone reading the answer for the first time can follow-along, preferably in a markdown file.
+
 b. Prepare 1 or more implementations in 1 or more languages of your choice; for example: Python, Rust, Javascript.
 
 ---
