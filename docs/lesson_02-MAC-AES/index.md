@@ -1,4 +1,4 @@
-<meta property="og:image" content="../rwc-cover-v1.png"/>
+<meta property="og:image" content="./rwc-cover-v1.png"/>
 
 ## Lesson 2 - MAC & Advanced encryption
 
