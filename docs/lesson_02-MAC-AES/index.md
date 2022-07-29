@@ -14,13 +14,6 @@
 
 
 
-### Todo ###
-* Add sources here that were shared in exercise code / answers / pull requests
-* Prepare links/glossary of definitions and resources for all core concepts
-
----
-
-
 ---
 
 **Challenge Exercises**
@@ -47,8 +40,12 @@ b. Prepare 1 or more implementations in 1 or more languages of your choice; for 
 
 8. In AES-CBC, how can we prevent the ciphertext as well as the IV from being modified by an attacker?
 
-*Bonus questions..*
-9. What is a property of message authentication codes that are falsely attributed? (What do people get wrong about MACs)?
+---
 
-10. Explain the properties of AES-GCM (AEAD) and demonstrate an implementation of AES-GCM.
+**Bonus questions!**
+
+9. What is a property of message authentication codes that are falsely attributed? (What do people get wrong about MACs?)
+
+  10. Explain the properties of AES-GCM (AEAD) and demonstrate an implementation of AES-GCM.
+
 ---
