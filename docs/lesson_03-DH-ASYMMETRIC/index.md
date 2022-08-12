@@ -1,6 +1,6 @@
 <meta property="og:image" content="../rwc-cover-v1.png"/>
 
-## Lesson 2 - MAC & Advanced encryption
+## Lesson 3 - Key exchanges & Asymmetric encryption and hybrid encryption
 
 **Expected Duration:** 2 weeks
 
