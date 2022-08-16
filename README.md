@@ -10,7 +10,7 @@ Study Group repository for notes, code and related resources
  * Mark your meet-up time preference (see pinned comment)
 2)
   * Create a repository for the lesson(s) and make a markdown file showing your answers for the exercises. (Click links below lesson plan for assignments, here's an example how I structured my answers [here](https://github.com/nickmura/rwc-exercises-lessons/blob/main/lesson2_mac-aes/exercises.md).
-  * Make a src folder for the lesson
+  * Make a src folder for the lesson if needed
 
 1) Prepare your development environment
 1) Learn and build
