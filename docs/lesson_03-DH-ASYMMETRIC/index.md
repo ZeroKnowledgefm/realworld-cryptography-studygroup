@@ -29,7 +29,7 @@ b. Prepare 1 or more implementations in 1 or more languages of your choice; for 
 
 2. What is the difference between an active MITM, and a passive MITM?
 
-3. What are some of the qualities of the group that Diffie Hellman (not elliptic curve) standards use, and how is it constructed from this? (what kind of set elements are they?)
+3. Outline or describe the group Diffie Hellman uses. (what kind of set of elements it uses, etc)?
 
 4. What is the significance of the discrete logarithm problem, specific to Diffie Hellman?
 
