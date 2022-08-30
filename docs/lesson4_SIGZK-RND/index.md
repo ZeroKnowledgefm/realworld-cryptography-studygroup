@@ -1,6 +1,6 @@
 
 
-## Lesson 4 - Signatures and zero knowledge proofs & Randomness and shared secrets.
+## Lesson 4 - Signatures and zero knowledge proofs & Randomness and secrets.
 
 **Expected Duration:** 2 weeks
 
